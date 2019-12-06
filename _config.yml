@@ -1,0 +1,43 @@
+title: Antares Chen
+email:
+description: >
+    Personal website for Antares Chen
+permalink: ':title/'
+baseurl: ""
+url: ""
+
+# Contact links
+email: antaresc@berkeley.edu
+phone:
+website: acscooter.github.io
+linkedin:
+github: acscooter
+twitter:
+facebook:
+instagram:
+pinterest:
+
+# Newsletter
+mailchimp:
+
+# Disqus
+discus_identifier:
+
+# Tracker
+analytics:
+
+# Paginate
+paginate: 6
+paginate_path: /page:num/
+
+# Build settings
+markdown: kramdown
+
+plugins:
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-feed
+
+include: [_pages]
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
