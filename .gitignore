@@ -27,3 +27,9 @@ Temporary Items
 .apdisk
 
 _site/
+
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
