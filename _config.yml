@@ -1,17 +1,14 @@
 title: Antares Chen
-email: antaresc@berkeley.edu
+email: antaresc@uchicago.edu
 description: "A personal website for Antares Chen"
 permalink: ':title/'
 baseurl: ""
 url: "https://antaresc.github.io"
 
 # Contact links
-email: antaresc@berkeley.edu
-phone:
+email: antaresc@uchicago.edu
 website: antaresc.github.io
-linkedin:
 github: antaresc
-twitter:
 facebook:
 instagram:
 pinterest:
